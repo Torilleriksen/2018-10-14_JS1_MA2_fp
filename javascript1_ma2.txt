@@ -7,6 +7,8 @@
 2. What is the constructor?
 
 3. What does the return statement do?
+The return statement in JavaScript is used to stop the exectution of a fuction and then as the name implies 
+return a value from said function. 
 
 4. What will be written to the console from this function:
 		function myFunction(){
@@ -17,3 +19,5 @@
 
 
 5. Briefly describe scope in JavaScript.
+The term scope in JavaScript refers to where and when you define a variable.
+Where refering to it being inside a function or outside and when if it is before you call any function or other JavaScript. 
