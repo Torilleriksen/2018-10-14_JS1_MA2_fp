@@ -5,6 +5,8 @@
  That means it is very similar to a function statement but no name is needed. 
  
 2. What is the constructor?
+The constructor if I have understood the question right refers to a constructor function that sets a blueprint or recipie 
+for a object and then later passing in values by calling the function with keyword new. 
 
 3. What does the return statement do?
 The return statement in JavaScript is used to stop the exectution of a fuction and then as the name implies 
